@@ -1,0 +1,20 @@
+________________________________________________________
+Quiz Results
+Date: 2024-11-04 19:19:40.883419
+Participant: dola doloy
+Score: 0/2
+Time Remaining: 40 seconds
+Answers Given:
+  Question 1: Select the prime numbers
+    Given: A
+    Correct: A, B, D
+    Time Taken: 18s
+    Result: Incorrect
+________________________________________________________
+  Question 2: What is the capital of France?
+    Given: 
+    Correct: B
+    Time Taken: 1s
+    Result: Incorrect
+________________________________________________________
+
